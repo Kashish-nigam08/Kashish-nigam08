@@ -8,8 +8,8 @@
 🧠 Currently learning Advanced Analytics & Real-world Problem Solving
 💻 Building end-to-end portfolio projects
 ⚡ Interested in Data Analytics & Business Intelligence roles
- 
- [![🛠️ My Skills](https://skillicons.dev/icons?i=py,mysql,cpp,css,github,html,vscode)](https://skillicons.dev)
+
+
   💻 Technical Skills
     Python (Pandas, NumPy)
     SQL (MySQL)
