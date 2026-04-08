@@ -2,31 +2,31 @@
 
 🎯 Aspiring Data Analyst | 📊 Passionate about transforming data into actionable insights
 
-🚀 About Me
-• Skilled in Data Analysis, Visualization & SQL
-• Currently learning Advanced Analytics & Real-world Problem Solving
-• Building end-to-end portfolio projects
-• Interested in Data Analytics & Business Intelligence roles
+🚀 About Me<br>
+• Skilled in Data Analysis, Visualization & SQL<br>
+• Currently learning Advanced Analytics & Real-world Problem Solving<br>
+• Building end-to-end portfolio projects<br>
+• Interested in Data Analytics & Business Intelligence roles<br>
+<br>
+
+💻 Technical Skills<br>
+   • Python (Pandas, NumPy)<br>
+   • SQL (MySQL)<br>
+   • Power BI<br>
+   • Excel<br>
+   • C++<br>
+📊 Data Skills<br>
+   • Data Cleaning & Transformation<br>
+   • Exploratory Data Analysis (EDA)<br>
+   • Dashboard Creation<br>
+   • Data Visualization<br>
+🌐 Other Skills<br>
+   • HTML, CSS<br>
+   • Basic Machine Learning<br>
+   • Problem Solving<br>
 
 
-💻 Technical Skills
-   • Python (Pandas, NumPy)
-   • SQL (MySQL)
-   • Power BI
-   • Excel
-   • C++
-📊 Data Skills
-   • Data Cleaning & Transformation
-   • Exploratory Data Analysis (EDA)
-   • Dashboard Creation
-   • Data Visualization
-🌐 Other Skills
-   • HTML, CSS
-   • Basic Machine Learning
-   • Problem Solving
-
-
-📂 Projects
+📂 Projects<br><br>
 
 📊 Customer Behavior Data Analytics
  • Analyzed 10,000+ records to identify customer trends
